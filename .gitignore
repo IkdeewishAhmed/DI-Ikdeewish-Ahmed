@@ -15,3 +15,10 @@ buildNumber.properties
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
+nbproject/private/
+.idea/
+*.iml
+out/
+```[cite: 41]
+
+Once you paste that in and click **Commit changes**, your `.gitignore` is all set[cite: 41]. What do you want to tackle next—`README.md`, uploading `proyecto-di`, or `FICHA.md`[cite: 42, 43, 45]?
